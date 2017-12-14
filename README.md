@@ -1,4 +1,4 @@
 Scala
 ---
 
-This is a tutorial for Scala
+This is a tutorial for Scala.
